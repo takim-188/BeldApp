@@ -12,8 +12,63 @@ class _LastNotificationState extends State<LastNotification> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color(0xFF00D9D2),
-        title: Text("Geçmiş Bildiriler Detay Sayfası"),
+        title: Text('Geçmiş Bildirilerim'),
+        toolbarHeight: 80,
+        backgroundColor:Color(0xfff20c60),
+        shape: RoundedRectangleBorder(
+
+            borderRadius:  BorderRadius.only(
+
+                bottomRight: Radius.circular(70),
+
+                bottomLeft: Radius.circular(70))
+
+        ),
+        elevation: 14,
+        actions: [
+
+          Row(
+
+            children: [
+
+              SizedBox(width: 10,),
+              Container(
+
+                height: 40,width: 40,
+
+                alignment: Alignment.center,
+
+                decoration: BoxDecoration(
+
+                    boxShadow: [
+
+                      BoxShadow(blurRadius: 7,spreadRadius: 3,
+
+                          color: Color(0xfff20c60)
+
+                      )
+
+                    ],
+
+                    shape: BoxShape.circle,
+
+                    color: Colors.pink.shade400
+
+                ),
+
+                child: Icon(Icons.logout,size: 20,
+
+                ),
+
+              ),
+
+              SizedBox(width: 26,)
+
+            ],
+
+          )
+
+        ],
       ),
       body: FittedBox(
         child: Container(

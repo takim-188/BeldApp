@@ -146,7 +146,8 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 
 
-* **Ürün Durumu:** Ürünün güncel ekran görüntüleri
+* **Ürün Durumu:** Ürünün güncel ekran görüntüleri ![Şikayet Sayfası](https://user-images.githubusercontent.com/104396283/172243998-bb9a2f9e-1eac-483f-a8e9-9d1a116785a1.jpeg)
+
 
 * **Sprint Review:** ............................................................................................. Sprint Review katılımcıları: Elif Özdemir, Mehmet Ali Yücel, Beyza Göncüler, Şevval Kapçak, Furkan Sarıkaya.
 

@@ -143,6 +143,7 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 * **Sprint Board Update:** Sprint Board Ekran Görüntüleri:
 * ![Sprint Board](https://user-images.githubusercontent.com/104396283/172245028-cfaccb2a-a82f-4525-9fc8-4ca1a9a52007.png) ![Sprint Board Son](https://user-images.githubusercontent.com/104396283/172245123-90aae92d-bd4f-4e7f-8189-a531f5f876b1.png)
+* 
 
 
 
@@ -150,11 +151,7 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 * **Ürün Durumu:** Ürünün güncel ekran görüntüleri:
 * ![Anasayfa](https://user-images.githubusercontent.com/104396283/172245393-b23b01bd-29ea-41f5-a5ca-3eb4be48a3ae.jpeg) ![Anasayfa2](https://user-images.githubusercontent.com/104396283/172245541-d169c351-6dfa-4e3b-8111-5b57ce2f8f3b.jpeg) ![Giriş Sayfası](https://user-images.githubusercontent.com/104396283/172245604-fe000c59-45f6-400b-8e81-b3412f1fa0f1.jpeg) ![Kayıt Sayfası](https://user-images.githubusercontent.com/104396283/172245654-677fa802-9763-4654-9ac9-6d303f730e6b.jpeg) ![Bildiri Sayfası](https://user-images.githubusercontent.com/104396283/172245751-7ee1a165-d463-4161-8fb3-f2e648646891.jpeg) ![Şikayet Sayfası](https://user-images.githubusercontent.com/104396283/172245840-5692e001-e687-4de3-8bc7-f6dfdf840d35.jpeg)
-
-
-
-
-
+* 
 
 
 
@@ -162,7 +159,6 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 * **Sprint Review:** Sprint'te olabildiğince uygulamanın backend kısmına ağırlık verilmiştir. Tüm sayfaların birleştirilmesiyle birlikte uygun appbar ve navigation bar seçimi gibi arayüz tasarımı üzerine çalışılmıştır. Son günlerde hata iyileştirmeleri ve arayüz yorumlaması yapılarak sprint özenle tamamlanmıştır. Sprint Review katılımcıları: Elif Özdemir, Mehmet Ali Yücel, Beyza Göncüler, Şevval Kapçak, Furkan Sarıkaya.
 
 * **Sprint Retrospective:** 
-  * ...............
-  * ....................
+  * Son Sprintte uygulamaya son hali verilerek arayüz ve kodlamalar tamamlanmıştır.
 
 * **Diğer Notlar:**

@@ -162,6 +162,14 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 
 * **Sprint Retrospective:** 
+
+İkinci açılacak part için kapsamın belirtilmesi
+
+Uygulamanın testıng kısmına daha fazla zaman ayırmamız gerekirdi
+
+Sprint sonu kutlaması
+
+
   
 
 * **Diğer Notlar:** 

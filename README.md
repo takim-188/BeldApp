@@ -142,7 +142,8 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 * **Daily Scrum:** Daily Scrum toplantıları, ihitiyaca uygun olarak hem Google Meetings hem de WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır: [Daily Scrum Chats.docx](https://github.com/takim-188/BelediyeApp/files/8646095/Daily.Scrum.Chats.docx)
 
 
-* **Sprint Board Update:** Sprint Board Ekran Görüntüleri 
+* **Sprint Board Update:** Sprint Board Ekran Görüntüleri ![Miro Sprint Board](https://user-images.githubusercontent.com/104396283/172243858-8ffa51a6-9dad-4d8a-8190-d9b68b04014f.png)
+
 
 
 * **Ürün Durumu:** Ürünün güncel ekran görüntüleri

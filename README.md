@@ -160,6 +160,8 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 * **Sprint Review:** Sprint boyunca uygulamanın backand kodlamasına ağırlık verilmiştir. Logo, tema renkleri gibi tasarım konuları üzerine çalışılmıştır. Görev dağılımı yapilmiş ve uygulamanın bootcamp için açılacak olan ilk partı tamamlanmıştır. Developerlar tarafından Sprint puan hesapları yapılmıştır. Sprint Review katılımcıları: Elif Özdemir, Mehmet Ali Yücel, Beyza Göncüler, Şevval Kapçak, Furkan Sarıkaya.
 
 * **Sprint Retrospective:** 
-  
+  Son Sprint, uygulama denemeleri ve iyileştirmeleri gerçekleştirilmelidir.
+  Sonraki partlar için kapsamların düşünülmesi
+  Belediyeler ile iletişime geçilmesi ve abonelikler hakkında bilgi verilmesinin formatının düzenlenmesi
 
 * **Diğer Notlar:**

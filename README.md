@@ -130,22 +130,23 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 * **Sprint notları:** 
 
-* **Sprint içinde tamamlanması gereken puan:** 
+* **Sprint içinde tamamlanması gereken puan:** 140 Paun
 
-* **Puan tamamlama mantığı:** 3 Sprint için toplamda 380 puanlık Backlog olması kararlaştırılmıştır. Üçüncü Sprint için ................ Puan olarak hesaplanmıştır.
+* **Puan tamamlama mantığı:** 3 Sprint için toplamda 380 puanlık Backlog olması kararlaştırılmıştır. Üçüncü Sprint için tamamlanması gereken kısım 140 Puan olarak hesaplanmıştır.
 
 * **Backlog düzeni ve Story seçimleri:** Backlog, planlanan ilerleme düzenine göre düzenlenmiştir. Story zorluklarına göre 10 ile 50 puan arasında puanlandırmalar yapılmıştır. Bu puanlamalar sonucunda sprint'lerin toplam puanı 380 olarak belirlenmiştir. İlk sprint için fonksiyonel özelliklere fazla girilmediğinden 120 puana ulaşmak hedeflenmiştir.
 
 Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmızı kartlar yapılacak işleri gösterirken, mavi kartlar story'leri temsil etmektedir.  
 
 
-* **Daily Scrum:** Daily Scrum toplantıları, ihitiyaca uygun olarak hem Google Meetings hem de WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır: [Daily Scrum Chats.docx](https://github.com/takim-188/BelediyeApp/files/8646095/Daily.Scrum.Chats.docx)
+* **Daily Scrum:** Daily Scrum toplantıları, ihitiyaca uygun olarak hem Google Meetings hem de WhatsApp üzerinden gerçekleşmektedir. Toplantılarla ilgili görseller Readme dosyası içinde paylaşılmaktadır: https://1drv.ms/w/s!Aj8K0XziQzbfgvwY0cPTdtwEwaa-Eg?e=swBD9V
+
+* **Sprint Board Update:** Sprint Board Ekran Görüntüleri ![Miro Sprint Board](https://user-images.githubusercontent.com/104396283/172243858-8ffa51a6-9dad-4d8a-8190-d9b68b04014f.png)
 
 
-* **Sprint Board Update:** Sprint Board Ekran Görüntüleri 
 
+* **Ürün Durumu:** Ürünün güncel ekran görüntüleri ![Şikayet Sayfası](https://user-images.githubusercontent.com/104396283/172243998-bb9a2f9e-1eac-483f-a8e9-9d1a116785a1.jpeg)
 
-* **Ürün Durumu:** Ürünün güncel ekran görüntüleri
 
 * **Sprint Review:** ............................................................................................. Sprint Review katılımcıları: Elif Özdemir, Mehmet Ali Yücel, Beyza Göncüler, Şevval Kapçak, Furkan Sarıkaya.
 

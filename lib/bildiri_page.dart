@@ -439,6 +439,8 @@ class _BildiriPageState extends State<BildiriPage> {
                       "type": dropdownValue,
                       "user": FirebaseAuth.instance.currentUser?.uid,
                       "image": _imageUrl,
+                      "longitude": userLocation!.longitude,
+                      "latitude": userLocation!.latitude,
 
                     }) : print("Fill the gaps");
 

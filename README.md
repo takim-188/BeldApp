@@ -159,7 +159,7 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 
 
-* **Sprint Review:** ............................................................................................. Sprint Review katılımcıları: Elif Özdemir, Mehmet Ali Yücel, Beyza Göncüler, Şevval Kapçak, Furkan Sarıkaya.
+* **Sprint Review:** Sprint'te olabildiğince uygulamanın backend kısmına ağırlık verilmiştir. Tüm sayfaların birleştirilmesiyle birlikte uygun appbar ve navigation bar seçimi gibi arayüz tasarımı üzerine çalışılmıştır. Son günlerde hata iyileştirmeleri ve arayüz yorumlaması yapılarak sprint özenle tamamlanmıştır. Sprint Review katılımcıları: Elif Özdemir, Mehmet Ali Yücel, Beyza Göncüler, Şevval Kapçak, Furkan Sarıkaya.
 
 * **Sprint Retrospective:** 
   * ...............

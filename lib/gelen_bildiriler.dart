@@ -23,10 +23,6 @@ class _BildiriGelenState extends State<BildiriGelen> {
 
   var info;
 
- 
-
-
-
 
 
   @override

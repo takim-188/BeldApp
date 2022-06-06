@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147587248630",
+    "project_id": "beldapp-9e68a",
+    "storage_bucket": "beldapp-9e68a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147587248630:android:902b72bd3c5934128b97d7",
+        "android_client_info": {
+          "package_name": "com.example.beldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147587248630-ijuu0bpfvup00hk5f5fkkdklop3gcip1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB1GgZZcAH3Ug9EpH-1xx9JPVat3Qb84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147587248630-ijuu0bpfvup00hk5f5fkkdklop3gcip1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
